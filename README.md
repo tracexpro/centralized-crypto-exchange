@@ -40,13 +40,14 @@ Manage your assets with ease using our secure, user-friendly wallet services. Ou
 
 10. Staking:
 Participate in our staking ecosystem to earn rewards by locking up your cryptocurrencies. Our staking services support a variety of assets, offering users the opportunity to earn passive income while supporting network security and operations.
+
 ![image](https://github.com/user-attachments/assets/744644f1-7e38-4f2a-9634-2cb294769f1f)
 
-11. Know Your Customer (KYC):
+12. Know Your Customer (KYC):
 To ensure a secure and compliant trading environment, Tracexpro requires KYC verification for all users. Our KYC process involves verifying your identity to prevent fraud and adhere to regulatory standards. This step enhances the security of your account and helps protect our community from malicious activity.
 ![image](https://github.com/user-attachments/assets/2604d19d-60c5-4d68-8d24-6e856640065b)
 
-12. Investment Opportunities:
+13. Investment Opportunities:
 Explore a range of investment opportunities within our platform. From participating in ICOs and staking to engaging in high-return trading strategies, Tracexpro offers various avenues to grow your portfolio. Whether you're looking to diversify your investments or seek new ventures, our platform provides tools and insights to help you maximize your returns.
 ![image](https://github.com/user-attachments/assets/f83845c2-3b9d-4f78-8b46-f8f560b978df)
 
