@@ -4,7 +4,7 @@ Tracexpro is a cutting-edge platform designed to cater to the multifaceted needs
 
 1. Spot Trading:
 Trade cryptocurrencies directly on the spot market with real-time pricing. Our spot trading feature allows for immediate buying and selling of digital assets, offering straightforward execution with competitive fees and high liquidity.
-![image](https://github.com/user-attachments/assets/83b2eae1-2a02-418e-8305-9e4ef320477e)
+![image](https://github.com/user-attachments/assets/4d43aa25-0740-4995-83fe-46ffaca936bd)
 
 2. Binary Trading:
 Explore binary trading opportunities with our platform’s easy-to-use interface. Predict price movements within specific time frames and take advantage of potential high returns. Our binary trading system is designed for both novices and experienced traders, providing clear, accessible trading options.
