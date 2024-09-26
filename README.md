@@ -75,6 +75,7 @@ Demo#123
 
 Note : You can switch between admin and user.
 
+
 Mobile App
 
 Demo App Android : https://tracex.pro/tracex.apk
@@ -89,11 +90,13 @@ Demo Admin : https://tracex.pro/admin/dashboard
 demo@gmail.com
 Demo#123
 
+
 Requirements for Installation :
 
 Empty Ubuntu 22 clean vps,
 8gb ram,
 100 GB Storage
+
 
 Tech Used :
 
