@@ -65,9 +65,11 @@ Excited about the future of cryptocurrency trading? I’m offering a complete sc
 Looking forward to connecting with you and helping you make the most of your crypto experience!
 
 Web
+
 Demo : https://tracex.pro
 
 Demo Admin : https://tracex.pro/admin/dashboard
+
 demo@gmail.com
 Demo#123
 
@@ -89,8 +91,8 @@ Demo#123
 
 Requirements for Installation :
 
-Empty Ubuntu 22 clean vps
-8gb ram
+Empty Ubuntu 22 clean vps,
+8gb ram,
 100 GB Storage
 
 Tech Used :
