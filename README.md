@@ -50,6 +50,9 @@ To ensure a secure and compliant trading environment, Tracexpro requires KYC ver
 Explore a range of investment opportunities within our platform. From participating in ICOs and staking to engaging in high-return trading strategies, Tracexpro offers various avenues to grow your portfolio. Whether you're looking to diversify your investments or seek new ventures, our platform provides tools and insights to help you maximize your returns.
 ![image](https://github.com/user-attachments/assets/f83845c2-3b9d-4f78-8b46-f8f560b978df)
 
+14. Mobile App
+Tracex mobile crypto app is designed for users of all levels, offering a seamless and intuitive interface for trading, storing, and managing digital assets. Built with security and simplicity in mind, the app enables you to access your portfolio, execute trades, and monitor market trends with just a few taps.
+![image](https://github.com/user-attachments/assets/1b3037ce-8604-4adb-9ccd-1f6acdc7b26a)
 
 Ready to Dive In? Let's Connect!
 
@@ -59,7 +62,19 @@ Excited about the future of cryptocurrency trading? I’m offering a complete sc
 
 Looking forward to connecting with you and helping you make the most of your crypto experience!
 
+Web
 Demo : https://tracex.pro
+Demo Admin : https://tracex.pro/admin/dashboard
+demo@gmail.com
+Demo#123
+
+Note : You can switch between admin and user.
+
+Mobile App
+Demo App Android : https://tracex.pro/tracex.apk
+Demo App User:
+demo@gmail.com
+Demo#123
 
 Demo Admin : https://tracex.pro/admin/dashboard
 demo@gmail.com
@@ -75,5 +90,4 @@ Tech Used :
 Nextjs , Tailwind, Typescript
 Node js, mysql , ethers
 
-Note : You can switch between admin and user.
 
