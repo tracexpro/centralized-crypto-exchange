@@ -52,7 +52,8 @@ Explore a range of investment opportunities within our platform. From participat
 
 14. Mobile App
 Tracex mobile crypto app is designed for users of all levels, offering a seamless and intuitive interface for trading, storing, and managing digital assets. Built with security and simplicity in mind, the app enables you to access your portfolio, execute trades, and monitor market trends with just a few taps.
-![image](https://github.com/user-attachments/assets/1b3037ce-8604-4adb-9ccd-1f6acdc7b26a)
+![image](https://github.com/user-attachments/assets/b10683ed-87bc-4f91-a036-a45dbda71416)
+
 
 Ready to Dive In? Let's Connect!
 
@@ -64,6 +65,7 @@ Looking forward to connecting with you and helping you make the most of your cry
 
 Web
 Demo : https://tracex.pro
+
 Demo Admin : https://tracex.pro/admin/dashboard
 demo@gmail.com
 Demo#123
@@ -71,6 +73,7 @@ Demo#123
 Note : You can switch between admin and user.
 
 Mobile App
+
 Demo App Android : https://tracex.pro/tracex.apk
 Demo App User:
 demo@gmail.com
@@ -87,6 +90,7 @@ Empty Ubuntu 22 clean vps
 100 GB Storage
 
 Tech Used :
+
 Nextjs , Tailwind, Typescript
 Node js, mysql , ethers
 
