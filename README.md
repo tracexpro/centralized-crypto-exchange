@@ -65,23 +65,23 @@ Excited about the future of cryptocurrency trading? I’m offering a complete sc
 Looking forward to connecting with you and helping you make the most of your crypto experience!
 
 
-Web : https://tracex.pro
+Web : https://cex.tracex.pro
 
-Demo Admin : https://tracex.pro/admin/dashboard
+Demo Admin : https://cex.tracex.pro/admin/dashboard
 
 demo@gmail.com
 Demo#123
 
 Note : You can switch between admin and user.
 
-Mobile App : https://tracex.pro/tracex.apk
+Mobile App : https://cex.tracex.pro/tracex.apk
 
 Demo App User:
 
 demo@gmail.com
 Demo#123
 
-Demo Admin : https://tracex.pro/admin/dashboard
+Demo Admin : https://cex.tracex.pro/admin/dashboard
 
 demo@gmail.com
 Demo#123
